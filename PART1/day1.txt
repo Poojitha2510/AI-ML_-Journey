@@ -1,0 +1,13 @@
+-->In python each instruction should be in new line
+Variable:A Variable is a container which holds data
+  Rules: -> must start with (a-z,A-Z)or an underScore_
+         ->can contain  alphate,speacial charecter,numbers
+         ->python is case sensitive
+
+  ex: a=10 (assignment instruction) (a=variable,'=':assignment operater,10= data)
+
+comment:sticky notes for program
+       ->compiler ignore the commands
+       there two types:1.single line(#) and 2.multiple line(""".....""",'''.....''')
+DataTypes:
+  
