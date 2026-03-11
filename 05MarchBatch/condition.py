@@ -83,13 +83,13 @@ else:
 
 #guess number
 
-guess_number=56
+'''guess_number=56
 num=int(input("enter the number"))
 if(num==guess_number):
     print("you guess correct")
 elif(num<guess_number):
     print("you guess lesser number,try a big number")
 else:
-    print("you guess the greter number,try with samller number")
+    print("you guess the greter number,try with samller number")'''
 
  
