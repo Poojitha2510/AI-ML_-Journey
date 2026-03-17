@@ -50,6 +50,7 @@ def isMoreThan(n):
 ans=isMoreThan(42)
 print(ans)
 
+#default the return is none
 def printName(name):
     print(name)
     return
