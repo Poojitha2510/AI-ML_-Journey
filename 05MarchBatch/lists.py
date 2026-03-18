@@ -12,13 +12,14 @@ print(abc[-2:-4:1])'''
 #to rverse the list
 '''for i in range(len(abc)-1,-1,-1):
      print(abc[i])'''
-
+""" ***list operrations **** """
 #len
 # append(add element at the end)
 #extend:
 #insert(index,element):to insert the element at middle of list
 #remove(element):to remove elent(all ways remove first appearence) 
 #pop(index):to remove element using the index
+#to assign value to existing value arr[index]=value
 
 #Functions:a block of code
 '''def square(n):
